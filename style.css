@@ -1,0 +1,22 @@
+html {
+    background-color: turquoise;
+}
+
+body {
+    background-color: turquoise;
+    text-align: center;
+}
+div {
+    margin-top: 30px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
